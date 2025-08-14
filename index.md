@@ -44,7 +44,7 @@ title: "About Me"
     <a href="https://sites.google.com/view/gvenkata/home">Venkata (GV) Gandikota</a>.
     My research interests include coding theory, lattices, information theory, and quantum information theory.
 
-    <p>Here are some quantum information theory notes you might find interesting:</p>
+    <p>Here are some quantum information theory notes you might find interesting: <a href="{{ '/quantum-notes/' | relative_url }}">Quantum Notes</a>.</p>
   </div>
 
   <figure class="photo">

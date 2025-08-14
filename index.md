@@ -48,6 +48,6 @@ title: "About Me"
   </div>
 
   <figure class="photo">
-    <img src="{{ '/IMG_6983.jpg' | relative_url }}" alt="Personal photo" loading="lazy" decoding="async">
+    <img src="{{ '/haodong_yang.jpg' | relative_url }}" alt="Personal photo" loading="lazy" decoding="async">
   </figure>
 </div>

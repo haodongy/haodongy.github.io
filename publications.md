@@ -37,7 +37,7 @@ title: "Publications"
 
 <li>
   <span class="tag">[W]</span>
-  <span>Towards Quantum Universal Hypothesis Testing</span><br>
+  <a href="https://arxiv.org/abs/2504.16299">Towards Quantum Universal Hypothesis Testing</a><br>
   Arick Grootveld, <strong>Haodong Yang</strong>, Biao Chen, Venkata Gandikota, Jason Pollack.<br>
   <em>IEEE Information Theory Workshop (ITW)</em>, 2025.
 </li>

@@ -11,7 +11,7 @@ My research interests include coding theory, lattices, information theory, and q
 <figure>
   <picture>
     <!-- Many browsers don't render HEIC. Keep the HEIC for completeness, but provide a JPEG fallback. -->
-    <source srcset="/assets/images/IMG_6983.HEIC" type="image/heic">
+    <source srcset="/assets/images/IMG_6983.jpg" type="image/heic">
     <img src="/assets/images/IMG_6983.jpg" alt="Research graph (IMG_6983)" style="max-width:100%; height:auto;">
   </picture>
   <figcaption></figcaption>

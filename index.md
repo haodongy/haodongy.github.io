@@ -5,15 +5,20 @@ title: "About Me"
 
 <style>
 /* Scoped styles so we don't affect the rest of the site */
+.name {
+  margin: 0 0 0.5rem 0;
+  font-weight: 700;
+  font-size: clamp(1.5rem, 1.1rem + 1.2vw, 2rem);
+  letter-spacing: 0.2px;
+}
+
 .about {
   display: grid;
   grid-template-columns: 1fr 220px;   /* text | photo */
   gap: 1.25rem 2rem;
   align-items: start;
 }
-.about .photo {
-  justify-self: end;
-}
+.about .photo { justify-self: end; }
 .about .photo img {
   width: 220px;        /* adjust as you like */
   max-width: 100%;
@@ -21,18 +26,13 @@ title: "About Me"
   display: block;
 }
 @media (max-width: 800px) {
-  .about {
-    grid-template-columns: 1fr;       /* stack on small screens */
-  }
-  .about .photo {
-    justify-self: center;
-  }
-  .about .photo img {
-    width: 60%;
-    max-width: 260px;
-  }
+  .about { grid-template-columns: 1fr; }
+  .about .photo { justify-self: center; }
+  .about .photo img { width: 60%; max-width: 260px; }
 }
 </style>
+
+<h2 class="name">Haodong Yang</h2>
 
 <div class="about">
   <div class="copy">

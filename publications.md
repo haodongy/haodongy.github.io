@@ -49,6 +49,13 @@ title: "Publications"
   <em>IEEE Military Communications Conference (MILCOM)</em>, 2025.
 </li>
 
+<li>
+  <span class="tag">[C]</span>
+  <a href="https://arxiv.org/abs/2310.09613">Combinatorial Group Testing in Presence of Deletions</a><br>
+  <strong>Haodong Yang</strong>, Venkata Gandikota, Nikita Polyanskii.<br>
+  <em>IEEE International Symposium on Information Theory (ISIT)</em>, 2025.
+</li>
+
 </ul>
 
 ## 2023
@@ -62,11 +69,6 @@ title: "Publications"
   <em>IEEE Signal Processing Letters</em>, 30:145–149, 2023.
 </li>
 
-<li>
-  <span class="tag">[Preprint]</span>
-  <a href="https://arxiv.org/abs/2310.09613">Combinatorial Group Testing in Presence of Deletions</a><br>
-  Venkata Gandikota, Nikita Polyanskii, <strong>Haodong Yang</strong>.<br>
-  <em>arXiv:2310.09613</em>, 2023.
-</li>
+
 
 </ul>

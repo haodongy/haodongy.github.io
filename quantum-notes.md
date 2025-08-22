@@ -10,4 +10,6 @@ Here are some quantum information theory notes and snippets.
   Positive-Operator Valued Measure (POVM)
 </a>
 - [Quantum Stein’s lemma sketch](#)
-- [Relative entropy vs trace distance](#)
+- <a href="{{ '/Quantum_Information_notes Haar_Measurement.pdf' | relative_url }}" target="_blank" rel="noopener">
+  Haar Measurement (POVM)
+</a>

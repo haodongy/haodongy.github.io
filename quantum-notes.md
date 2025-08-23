@@ -14,4 +14,6 @@ Here are some quantum information theory notes and snippets.
   Haar Measurement (POVM)
 </a>
 
-- [Quantum Stein’s lemma sketch](#)
+- <a href="{{ '/Quantum Hypothesis testing.pdf' | relative_url }}" target="_blank" rel="noopener">
+  Quantum Hypothesis Testing(Strong Converse)
+</a>

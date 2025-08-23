@@ -21,7 +21,7 @@ title: "About Me"
 .about .photo { justify-self: end; }
 .about .photo img {
   width: 220px;        /* adjust as you like */
-  max-width: 100%;
+  max-width: 120%;
   border-radius: 10px; /* optional rounding */
   display: block;
 }

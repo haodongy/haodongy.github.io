@@ -23,7 +23,7 @@ title: "Publications"
 
 <li>
   <span class="tag">[C]</span>
-  <a href="[https://doi.org/10.1109/ICASSP49660.2025.10888126](https://arxiv.org/abs/2509.13287)">Target Detection in Two-Channel Passive Radars with Inter-Receiver Collaboration</a><br>
+  <a href="https://arxiv.org/abs/2509.13287">Target Detection in Two-Channel Passive Radars with Inter-Receiver Collaboration</a><br>
   Nandan Sriranga, <strong>Haodong Yang</strong>, Venkata Gandikota, Pramod K. Varshney.<br>
 </li>
 

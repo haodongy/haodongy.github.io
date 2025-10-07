@@ -23,6 +23,12 @@ title: "Publications"
 
 <li>
   <span class="tag">[C]</span>
+  <a href="[https://doi.org/10.1109/ICASSP49660.2025.10888126](https://arxiv.org/abs/2509.13287)">Target Detection in Two-Channel Passive Radars with Inter-Receiver Collaboration</a><br>
+  Nandan Sriranga, <strong>Haodong Yang</strong>, Venkata Gandikota, Pramod K. Varshney.<br>
+</li>
+
+<li>
+  <span class="tag">[C]</span>
   <a href="https://doi.org/10.1109/ICASSP49660.2025.10888126">Locally Correctable Lattices</a><br>
   <strong>Haodong Yang</strong>, Venkata Gandikota.<br>
   <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2025.
